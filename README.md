@@ -5,8 +5,8 @@
 <br>
 <br>
  
- [![Netlify Status](https://api.netlify.com/api/v1/badges/c16b493b-baf7-44ec-9d69-46f1c9ab0560/deploy-status)](https://app.netlify.com/sites/patriciadev53/deploys) 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/patriciauemura/guess-my-number?color=00995d">
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c16b493b-baf7-44ec-9d69-46f1c9ab0560/deploy-status)](https://guess-number-patdev53.netlify.app/)
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/patriciauemura/guess-my-number?color=00995d">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/patriciauemura/guess-my-number?color=b9d156">	
   <a href="https://github.com/patriciauemura/guess-my-number/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/patriciauemura/guess-my-number?color=b9d156"></a>
